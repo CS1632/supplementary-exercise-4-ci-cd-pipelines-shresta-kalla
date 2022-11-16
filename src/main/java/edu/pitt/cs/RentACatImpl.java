@@ -303,5 +303,6 @@ public class RentACatImpl implements RentACat {
 		System.out.println("Closing up shop for the day!");
 
 		sc.close();
+		
 	}
 }
